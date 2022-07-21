@@ -9,3 +9,7 @@ npm install
 ```
 npm run serve
 ```
+
+# profil
+Nama: Fahmi Nugroho Alibasyah
+Email: fahminugroho23@gmail.com
